@@ -19,7 +19,7 @@ If the two categories cannot be splitted (they are "intrinsically linked"), then
 
 * Additional burdens on companies processing this sort of mixed datasets (such as compliance costs).
 * It impedes the free flow of non-personal data, as the requirements for the flow of personal data are much stricter.
-* It makes research, testing and training of AI models more difficult, because of the stricter requirements in terms of personal data processing (you cannot freely feed this data into the system, you must have a legal basis, such as the consent of the natural personal, for instance).
+* It makes research, testing and training of AI models more difficult, because of the stricter requirements in terms of personal data processing (you cannot freely feed this data into the system, you must have a legal basis, such as the consent of the natural person, for instance).
 * These mixed datasets have stricter requirements in terms of data transfers to other countries (outside of the EU) if they contain personal data.
 
 A few examples of mixed datasets, in which the personal and non-personal data are "intrinsically linked":
